@@ -13,7 +13,7 @@ O foco principal foi demonstrar domínio de:
 
 ---
 
-## 🧠 Contexto do Desafio
+## Contexto do Desafio
 
 O Grupo Six opera com produtos físicos e utiliza o gateway internacional **Cartpanda**. O backend (CRM interno) consolida dados de diversas fontes, e o desafio consiste em:
 
@@ -28,7 +28,7 @@ https://dev-crm.ogruposix.com/candidato-teste-pratico-backend-dashboard/test-ord
 
 ---
 
-# 🚀 Tecnologias utilizadas
+# Tecnologias utilizadas
 
 - **PHP 8+**
 - **Laravel 10**
@@ -39,7 +39,7 @@ https://dev-crm.ogruposix.com/candidato-teste-pratico-backend-dashboard/test-ord
 
 ---
 
-# 📂 Arquitetura e Organização
+# Arquitetura e Organização
 
 ### app/Services/OrderMetricsService.php
 Responsável por:
