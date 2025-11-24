@@ -49,7 +49,6 @@ Responsável por:
 - Montar agrupamentos e somatórios
 - Padronizar valores financeiros
 
-Toda lógica de negócio está centralizada aqui.
 
 ---
 
